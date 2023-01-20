@@ -1,3 +1,8 @@
+<div align=center>
+    <img src="https://www.turing.com/blog/wp-content/uploads/2022/05/Software-development-skills-to-learn-in-2022.jpg"></img>
+</div>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <table align=center>
     <tr>
