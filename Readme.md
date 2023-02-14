@@ -35,6 +35,37 @@
 
 ## 2. Projektteil
 
+<table align=center>
+    <tr>
+            <td>
+                <a href="#1.1">1. Stunde, **/0*/2023</a>
+            </td>
+            <td>
+                <a href="#1.2">2. Stunde, **/0*/2023</a>
+            </td>
+            <td>
+                <a href="#1.3">3. Stunde, **/0*/2023</a>
+            </td>
+            <td>
+                <a href="#1.4">4. Stunde, **/0*/2023</a>
+            </td>
+    </tr>
+    <tr>
+            <td>
+                <a href="#1.5">5. Stunde, **/0*/2023</a>
+            </td>
+            <td>
+                <a href="#1.6">6. Stunde, **/0*/2023</a>
+            </td>
+            <td>
+                <a href="#1.77">7. Stunde, **/0*/2023</a>
+            </td>
+            <td>
+                <a href="#1.88">8. Stunde, **/0*/2023</a>
+            </td>
+    </tr>
+</table>
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <details>
@@ -58,4 +89,8 @@ Heute haben wir uns nochmal nach der längeren Pause über unser Projekt verstä
 
 Heute hat Louis unsere Idee in der Doppelstunde mit Herrn Buhl besprochen und dieser hat sein Go gegeben, sodass wir uns nun voll auf die Umsetzung dieses Projektes fokussieren werden. Weitergehend hat Louis schon mal Ideen gesammelt, und sich damit beschäftigt mit welcher Software man sich einen detaillierten Plan von der App machen kann, vor allem Designtechnisch. Dabei ist er auf Figma gestoßen, welches er schon während seines Praktikums benutzt hat. Deshalb werden wir uns absprechen, ob wir dieses Programm nun wirklich benutzen.
     
+</details>
+
+<details>
+    <summary>Alle Stundenprotokolle vom zweiten Projektteil</summary>
 </details>
