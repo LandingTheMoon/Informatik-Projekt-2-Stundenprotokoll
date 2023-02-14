@@ -37,4 +37,4 @@ Heute haben wir uns nochmal nach der längeren Pause über unser Projekt verstä
 
 ## Unterrichtsstunde am Dienstag, den 14.02.2023 <a name="4"></a>
 
-Heute Louis
+Heute hat Louis unsere Idee in der Doppelstunde mit Herrn Buhl besprochen und dieser hat sein Go gegeben, sodass wir uns nun voll auf die Umsetzung dieses Projektes fokussieren werden. Weitergehend hat Louis schon mal Ideen gesammelt, und sich damit beschäftigt mit welcher Software man sich einen detaillierten Plan von der App machen kann, vor allem Designtechnisch. Dabei ist er auf Figma gestoßen, welches er schon während seines Praktikums benutzt hat. Deshalb werden wir uns absprechen, ob wir dieses Programm nun wirklich benutzen.
